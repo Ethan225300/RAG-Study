@@ -1,0 +1,16 @@
+# 基础
+langchain
+langchain-community
+langchain-openai
+python-dotenv
+
+# 向量数据库
+faiss-cpu
+
+# 文档加载（PDF/Markdown）
+pypdf
+unstructured
+
+# Web API (如果你后面要用 FastAPI 提供接口)
+fastapi
+uvicorn

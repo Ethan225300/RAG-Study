@@ -1,0 +1,3 @@
+LangChain 是一个框架，用于构建基于大语言模型的应用。
+RAG 代表 Retrieval-Augmented Generation，是一种把检索和生成结合的技术。
+FAISS 是一个高效的向量检索库。
